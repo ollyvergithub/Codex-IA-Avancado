@@ -1,0 +1,290 @@
+- generic [ref=e2]:
+  - link "Pular para o conteúdo" [ref=e3] [cursor=pointer]:
+    - /url: "#conteudo"
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - link "Mari Nutricionista, início" [ref=e6] [cursor=pointer]:
+        - /url: "#inicio"
+        - generic [ref=e12]:
+          - text: mari.
+          - generic [ref=e13]: nutricionista
+      - navigation "Navegação principal" [ref=e14]:
+        - link "Acompanhamento" [ref=e15] [cursor=pointer]:
+          - /url: "#acompanhamento"
+        - link "Sobre a Mari" [ref=e16] [cursor=pointer]:
+          - /url: "#sobre"
+        - link "Dúvidas" [ref=e17] [cursor=pointer]:
+          - /url: "#duvidas"
+        - link "Agendar consulta" [ref=e18] [cursor=pointer]:
+          - /url: https://wa.me/5511999999999?text=Ol%C3%A1%2C%20Mari!%20Quero%20saber%20mais%20sobre%20o%20acompanhamento%20nutricional.
+  - main [ref=e23]:
+    - generic [ref=e24]:
+      - generic [ref=e25]:
+        - generic [ref=e26]:
+          - paragraph [ref=e27]: Nutrição acolhedora, feita para você
+          - heading [level=1] [ref=e28]:
+            - text: Uma alimentação saudável que
+            - emphasis [ref=e29]: cabe na sua vida.
+          - paragraph [ref=e30]: Acompanhamento nutricional personalizado para cuidar da sua saúde, respeitar sua rotina e construir mudanças que duram.
+          - generic [ref=e31]:
+            - link "Agendar consulta" [ref=e32] [cursor=pointer]:
+              - /url: https://wa.me/5511999999999?text=Ol%C3%A1%2C%20Mari!%20Quero%20saber%20mais%20sobre%20o%20acompanhamento%20nutricional.
+            - link "Conheça o acompanhamento" [ref=e37] [cursor=pointer]:
+              - /url: "#acompanhamento"
+          - generic [ref=e40]:
+            - generic [ref=e44]: Atendimento presencial e online
+            - generic [ref=e46]: Planos individualizados
+        - generic [ref=e47]:
+          - img "Imagem ilustrativa de nutricionista em ambiente de consulta" [ref=e48]
+          - generic [ref=e56]:
+            - strong [ref=e57]: Seu cuidado começa
+            - generic [ref=e58]: com uma conversa.
+          - generic [ref=e59]: Nutrição próxima e sem julgamentos
+          - generic [aria-hidden] [ref=e61]: m
+      - link "Continue para conhecer o acompanhamento" [ref=e62] [cursor=pointer]:
+        - /url: "#desafios"
+        - generic [ref=e63]: Continue explorando
+    - generic [ref=e67]:
+      - generic [ref=e68]:
+        - generic [ref=e70]:
+          - paragraph [ref=e71]: Você não precisa dar conta sozinha
+          - heading [level=2] [ref=e72]:
+            - text: Cuidar da alimentação
+            - emphasis [ref=e73]: não deveria pesar.
+        - paragraph [ref=e75]: Se as tentativas parecem sempre recomeçar do zero, talvez não falte força de vontade. Talvez falte um plano feito para a sua vida.
+      - generic [ref=e76]:
+        - paragraph [ref=e82]: Você começa uma dieta na segunda e na sexta já sente que falhou.
+        - paragraph [ref=e88]: Até tenta comer melhor, mas continua sem saber o que funciona para você.
+        - paragraph [ref=e94]: A rotina é corrida e planejar cada refeição parece mais uma tarefa impossível.
+        - paragraph [ref=e100]: Quer emagrecer ou ganhar massa, mas encontra orientações diferentes em todo lugar.
+      - generic [ref=e101]: A alimentação pode ser mais simples quando você tem orientação e espaço para construir seu próprio caminho.
+    - generic [ref=e103]:
+      - generic [ref=e104]:
+        - generic [ref=e105]:
+          - img "Imagem ilustrativa de nutricionista em um consultório" [ref=e106]
+          - generic [ref=e107]:
+            - generic [ref=e108]: Mari Nutricionista
+            - generic [ref=e109]: Um cuidado de pessoa para pessoa
+        - generic [aria-hidden] [ref=e110]: Cuidadocom calma
+      - generic [ref=e112]:
+        - generic [ref=e113]:
+          - paragraph [ref=e114]: Prazer, eu sou a Mari
+          - heading [level=2] [ref=e115]:
+            - text: Nutrição com escuta, ciência e
+            - emphasis [ref=e116]: vida real.
+        - paragraph [ref=e117]: Acredito que alimentação saudável não precisa vir acompanhada de culpa ou de regras impossíveis. Meu trabalho começa entendendo quem você é, como vive e o que deseja transformar.
+        - paragraph [ref=e118]: Juntas, vamos construir estratégias individualizadas para seus objetivos, suas preferências e o seu momento — com acolhimento, conhecimento e espaço para ajustar a rota.
+        - list [ref=e119]:
+          - listitem [ref=e120]:
+            - generic [ref=e126]: Escuta sem julgamentos
+          - listitem [ref=e127]:
+            - generic [ref=e131]: Plano feito com você
+          - listitem [ref=e132]:
+            - generic [ref=e136]: Cuidado baseado em evidências
+        - link "Quero conversar com a Mari" [ref=e137] [cursor=pointer]:
+          - /url: https://wa.me/5511999999999?text=Ol%C3%A1%2C%20Mari!%20Quero%20saber%20mais%20sobre%20o%20acompanhamento%20nutricional.
+        - paragraph [ref=e142]:
+          - text: CRN-3 00000 • Nutrição clínica e esportiva
+          - generic [ref=e143]: — dados profissionais ilustrativos; atualizar antes de publicar
+    - generic [ref=e145]:
+      - generic [ref=e147]:
+        - paragraph [ref=e148]: Como funciona
+        - heading [level=2] [ref=e149]:
+          - text: Um processo leve, pensado
+          - emphasis [ref=e150]: junto com você.
+        - paragraph [ref=e151]: "Cada etapa tem um propósito: ajudar você a transformar intenção em escolhas que fazem sentido no cotidiano."
+      - generic [ref=e152]:
+        - article [ref=e154]:
+          - generic [ref=e155]: "01"
+          - heading "Uma conversa sem pressa" [level=3] [ref=e159]
+          - paragraph [ref=e160]: Você conta seus objetivos, sua rotina e o que espera do acompanhamento.
+        - article [ref=e162]:
+          - generic [ref=e163]: "02"
+          - heading "Um plano com a sua cara" [level=3] [ref=e168]
+          - paragraph [ref=e169]: A avaliação considera histórico, preferências, horários e contexto de saúde.
+        - article [ref=e171]:
+          - generic [ref=e172]: "03"
+          - heading "Ajustes que fazem sentido" [level=3] [ref=e175]
+          - paragraph [ref=e176]: Vocês acompanham a evolução e adaptam as estratégias ao longo do caminho.
+    - generic [ref=e178]:
+      - generic [ref=e179]:
+        - generic [ref=e180]:
+          - paragraph [ref=e181]: O que muda com acompanhamento
+          - heading [level=2] [ref=e182]:
+            - text: Mais clareza no prato.
+            - emphasis [ref=e183]: Mais leveza na rotina.
+          - paragraph [ref=e184]: Não existe mudança igual para todo mundo. Existe o próximo passo que faz sentido para você — e apoio para chegar até ele.
+        - link "Veja se o acompanhamento combina com você" [ref=e185] [cursor=pointer]:
+          - /url: https://wa.me/5511999999999?text=Ol%C3%A1%2C%20Mari!%20Quero%20saber%20mais%20sobre%20o%20acompanhamento%20nutricional.
+      - generic [ref=e190]:
+        - paragraph [ref=e195]: Plano alimentar compatível com seus horários e preferências
+        - paragraph [ref=e203]: Mais clareza para fazer escolhas no dia a dia
+        - paragraph [ref=e211]: Estratégias graduais que respeitam seu momento
+        - paragraph [ref=e219]: Acompanhamento profissional e espaço para tirar dúvidas
+        - paragraph [ref=e227]: Uma relação mais tranquila e consciente com a comida
+        - paragraph [ref=e235]: Mais disposição para cuidar da sua saúde por inteiro
+    - generic [ref=e240]:
+      - generic [ref=e242]:
+        - paragraph [ref=e243]: Um acompanhamento para diferentes momentos
+        - heading [level=2] [ref=e244]:
+          - text: Seu objetivo também merece
+          - emphasis [ref=e245]: um plano só seu.
+        - paragraph [ref=e246]: O ponto de partida muda de pessoa para pessoa. O cuidado acompanha o que você precisa agora.
+      - generic [ref=e247]:
+        - article [ref=e249]:
+          - generic [ref=e250]: "01"
+          - heading "Emagrecimento saudável" [level=3] [ref=e255]
+          - paragraph [ref=e256]: Mudanças possíveis, sem restrições que não cabem na sua rotina.
+        - article [ref=e258]:
+          - generic [ref=e259]: "02"
+          - heading "Ganho de massa muscular" [level=3] [ref=e267]
+          - paragraph [ref=e268]: Nutrição alinhada ao treino, à recuperação e aos seus objetivos.
+        - article [ref=e270]:
+          - generic [ref=e271]: "03"
+          - heading "Reeducação alimentar" [level=3] [ref=e278]
+          - paragraph [ref=e279]: Aprenda a montar refeições com autonomia e sem regras impossíveis.
+        - article [ref=e281]:
+          - generic [ref=e282]: "04"
+          - heading "Saúde e bem-estar" [level=3] [ref=e287]
+          - paragraph [ref=e288]: Um cuidado individual para mais energia e qualidade de vida.
+        - article [ref=e290]:
+          - generic [ref=e291]: "05"
+          - heading "Nutrição esportiva" [level=3] [ref=e295]
+          - paragraph [ref=e296]: Estratégias para apoiar sua prática esportiva com equilíbrio.
+        - article [ref=e298]:
+          - generic [ref=e299]: "06"
+          - heading "Rotina corrida" [level=3] [ref=e304]
+          - paragraph [ref=e305]: Organização alimentar pensada para a vida que você realmente tem.
+    - generic [ref=e307]:
+      - generic [ref=e308]:
+        - img "Refeição colorida preparada com ingredientes frescos" [ref=e309]
+        - generic [ref=e310]: Equilíbrio começa no cotidiano
+      - generic [ref=e314]:
+        - paragraph [ref=e315]: O diferencial está na conversa
+        - heading [level=2] [ref=e316]:
+          - text: Nutrição de verdade precisa
+          - emphasis [ref=e317]: caber na sua vida.
+        - paragraph [ref=e318]: Seu plano não nasce de uma lista pronta. Ele é construído considerando seus horários, gostos, objetivos e desafios, para que você consiga colocar as orientações em prática de um jeito sustentável.
+        - list [ref=e319]:
+          - listitem [ref=e320]:
+            - generic [ref=e321]: "01"
+            - text: Sem cardápio genérico
+          - listitem [ref=e322]:
+            - generic [ref=e323]: "02"
+            - text: Sem excluir o que você gosta
+          - listitem [ref=e324]:
+            - generic [ref=e325]: "03"
+            - text: Com espaço para adaptar e aprender
+        - link "Vamos conversar" [ref=e326] [cursor=pointer]:
+          - /url: https://wa.me/5511999999999?text=Ol%C3%A1%2C%20Mari!%20Quero%20saber%20mais%20sobre%20o%20acompanhamento%20nutricional.
+    - generic [ref=e335]:
+      - generic [ref=e337]:
+        - paragraph [ref=e338]: Palavras de quem já começou
+        - heading [level=2] [ref=e339]:
+          - text: Pequenas mudanças,
+          - emphasis [ref=e340]: novas possibilidades.
+        - paragraph [ref=e341]: O acompanhamento é individual, e cada experiência também é. Estes relatos são exemplos fictícios de apresentação; substitua por depoimentos reais e autorizados antes de publicar.
+      - generic [ref=e342]:
+        - figure "Camila R. Acompanhamento há 5 meses" [ref=e344]:
+          - generic "Avaliação ilustrativa de cinco estrelas" [ref=e348]
+          - blockquote [ref=e359]: “Pela primeira vez, consegui fazer mudanças sem sentir que precisava abandonar tudo o que gosto. As consultas me ajudaram a entender o que funciona para a minha rotina.”
+          - generic [ref=e360]:
+            - generic [aria-hidden] [ref=e361]: C
+            - generic [ref=e362]:
+              - strong [ref=e363]: Camila R.
+              - generic [ref=e364]: Acompanhamento há 5 meses
+        - figure "Rafael M. Acompanhamento online" [ref=e366]:
+          - generic "Avaliação ilustrativa de cinco estrelas" [ref=e370]
+          - blockquote [ref=e381]: “Eu vivia pulando refeições por causa do trabalho. Com um planejamento simples, fiquei mais organizado e parei de tratar cada refeição como uma prova.”
+          - generic [ref=e382]:
+            - generic [aria-hidden] [ref=e383]: R
+            - generic [ref=e384]:
+              - strong [ref=e385]: Rafael M.
+              - generic [ref=e386]: Acompanhamento online
+        - figure "Juliana P. Reeducação alimentar" [ref=e388]:
+          - generic "Avaliação ilustrativa de cinco estrelas" [ref=e392]
+          - blockquote [ref=e403]: “A Mari escuta de verdade. O plano foi mudando junto comigo e isso me deu confiança para continuar cuidando da minha alimentação.”
+          - generic [ref=e404]:
+            - generic [aria-hidden] [ref=e405]: J
+            - generic [ref=e406]:
+              - strong [ref=e407]: Juliana P.
+              - generic [ref=e408]: Reeducação alimentar
+    - generic [ref=e410]:
+      - generic [ref=e411]:
+        - paragraph [ref=e412]: Seu próximo passo pode ser simples
+        - heading [level=2] [ref=e413]:
+          - text: Comece hoje a cuidar da sua alimentação
+          - emphasis [ref=e414]: com orientação profissional.
+        - paragraph [ref=e415]: Conte para a Mari o que você está buscando. Juntas, vocês podem encontrar o formato de acompanhamento que faz sentido para sua rotina.
+        - link "Agendar uma conversa" [ref=e416] [cursor=pointer]:
+          - /url: https://wa.me/5511999999999?text=Ol%C3%A1%2C%20Mari!%20Quero%20saber%20mais%20sobre%20o%20acompanhamento%20nutricional.
+      - generic [ref=e421]:
+        - generic [ref=e426]:
+          - strong [ref=e427]: Consulta presencial
+          - generic [ref=e428]: Atendimento acolhedor no consultório
+        - generic [ref=e433]:
+          - strong [ref=e434]: Consulta online
+          - generic [ref=e435]: De onde você estiver, com privacidade
+    - generic [ref=e441]:
+      - generic [ref=e443]:
+        - paragraph [ref=e444]: Perguntas frequentes
+        - heading [level=2] [ref=e445]:
+          - text: Antes de começar,
+          - emphasis [ref=e446]: pode perguntar.
+        - paragraph [ref=e447]: O primeiro contato também é um espaço para entender o processo e tirar dúvidas.
+      - generic [ref=e448]:
+        - group [ref=e450]:
+          - generic "A consulta pode ser online?" [ref=e451] [cursor=pointer]
+          - paragraph [ref=e456]: Sim. O atendimento online acontece por videochamada, com a mesma atenção à sua rotina, objetivos e histórico. Você recebe as orientações e materiais de forma digital.
+        - group [ref=e458]:
+          - generic "O plano alimentar é personalizado?" [ref=e459] [cursor=pointer]
+        - group [ref=e463]:
+          - generic "Preciso cortar tudo que gosto?" [ref=e464] [cursor=pointer]
+        - group [ref=e468]:
+          - generic "O acompanhamento serve para emagrecimento?" [ref=e469] [cursor=pointer]
+        - group [ref=e473]:
+          - generic "Também posso buscar ganho de massa muscular?" [ref=e474] [cursor=pointer]
+        - group [ref=e478]:
+          - generic "Com que frequência acontecem os retornos?" [ref=e479] [cursor=pointer]
+        - group [ref=e483]:
+          - generic "Como faço para agendar?" [ref=e484] [cursor=pointer]
+    - generic [ref=e489]:
+      - paragraph [ref=e495]: Um passo de cada vez
+      - heading "Sua alimentação não precisa ser complicada." [level=2] [ref=e496]
+      - paragraph [ref=e497]: Com orientação e um plano possível, você pode construir uma rotina mais saudável no seu tempo.
+      - link "Agendar minha consulta" [ref=e498] [cursor=pointer]:
+        - /url: https://wa.me/5511999999999?text=Ol%C3%A1%2C%20Mari!%20Quero%20saber%20mais%20sobre%20o%20acompanhamento%20nutricional.
+  - contentinfo [ref=e506]:
+    - generic [ref=e507]:
+      - generic [ref=e508]:
+        - generic [ref=e509]:
+          - link "mari. nutricionista" [ref=e510] [cursor=pointer]:
+            - /url: "#inicio"
+            - generic [ref=e516]:
+              - text: mari.
+              - generic [ref=e517]: nutricionista
+          - paragraph [ref=e518]: Nutrição com escuta, ciência e vida real.
+          - link "Instagram da Mari (adicionar perfil correto)" [ref=e519] [cursor=pointer]:
+            - /url: https://instagram.com/
+        - generic [ref=e523]:
+          - strong [ref=e524]: Explore
+          - link "Acompanhamento" [ref=e525] [cursor=pointer]:
+            - /url: "#acompanhamento"
+          - link "Sobre a Mari" [ref=e526] [cursor=pointer]:
+            - /url: "#sobre"
+          - link "Dúvidas" [ref=e527] [cursor=pointer]:
+            - /url: "#duvidas"
+          - link "Áreas de atendimento" [ref=e528] [cursor=pointer]:
+            - /url: "#para-quem"
+        - generic [ref=e529]:
+          - strong [ref=e530]: Vamos conversar?
+          - paragraph [ref=e531]: Atendimento presencial e online, com horários combinados.
+          - link "Fale com a Mari ↗" [ref=e532] [cursor=pointer]:
+            - /url: https://wa.me/5511999999999?text=Ol%C3%A1%2C%20Mari!%20Quero%20saber%20mais%20sobre%20o%20acompanhamento%20nutricional.
+            - text: Fale com a Mari
+            - generic [ref=e533]: ↗
+      - generic [ref=e534]:
+        - generic [ref=e535]: © 2026 Mari Nutricionista
+        - generic [ref=e536]: Conteúdo informativo. O atendimento é individualizado.
+        - link "Voltar ao início ↑" [ref=e537] [cursor=pointer]:
+          - /url: "#inicio"
