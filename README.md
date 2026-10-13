@@ -14,7 +14,7 @@ Site desenvolvido para apresentar os serviços de uma nutricionista e facilitar 
 
 ## Instale as dependências do projeto
 
-Antes de começar, tenha o Node.js e o npm instalados. Na pasta do projeto, execute:
+Antes de começar, tenha o Node.js `^20.19.0` ou `>=22.12.0` e o npm instalados. Na pasta do projeto, execute:
 
 ```bash
 npm install
