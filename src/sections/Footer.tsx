@@ -1,4 +1,5 @@
 import { Sprout } from 'lucide-react'
+import { Link } from 'react-router'
 import { navigation, whatsappUrl } from '../data/content'
 
 export function Footer() {
@@ -17,6 +18,7 @@ export function Footer() {
             <strong>Explore</strong>
             {navigation.map((item) => <a key={item.href} href={item.href}>{item.label}</a>)}
             <a href="#para-quem">Áreas de atendimento</a>
+            <Link to="/termos">Privacidade</Link>
           </div>
           <div className="site-footer__contact">
             <strong>Vamos conversar?</strong>

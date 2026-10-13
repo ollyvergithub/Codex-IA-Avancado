@@ -10,8 +10,20 @@ import { Booking } from './sections/Booking'
 import { FAQ } from './sections/FAQ'
 import { FinalCTA } from './sections/FinalCTA'
 import { Footer } from './sections/Footer'
+import { Navigate, Route, Routes } from 'react-router'
+import { TermsPage } from './pages/TermsPage'
 
 export default function App() {
+  return (
+    <Routes>
+      <Route path="/" element={<HomePage />} />
+      <Route path="/termos" element={<TermsPage />} />
+      <Route path="*" element={<Navigate to="/" replace />} />
+    </Routes>
+  )
+}
+
+function HomePage() {
   return (
     <>
       <a className="skip-link" href="#conteudo">Pular para o conteúdo</a>
